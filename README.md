@@ -64,4 +64,4 @@ Shazia Tarannum
 ---
 
 ## ⭐ Note
-This is a simple AI-assisted QA automation project built using Python.
+This is a simple AI assisted QA automation project built using Python.
