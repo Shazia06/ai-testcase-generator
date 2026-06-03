@@ -58,6 +58,9 @@ The program generates an Excel file containing:
 
 ---
 
+## ⚙️ How it Works
+The script reads input requirements and processes them using Python logic. It then generates structured test cases with steps and expected results, and finally exports everything into an Excel file.
+
 ## 👩‍💻 Author
 Shazia Tarannum
 
